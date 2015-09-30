@@ -1,2 +1,2 @@
-# php-sdk
+# NICCI PHP SDK
 NICCI PHP SDK
